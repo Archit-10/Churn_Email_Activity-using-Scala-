@@ -16,7 +16,7 @@ Before running the Scala script, ensure you have Scala installed on your system.
 Usage:
 
     Clone this repository to your local machine:
-    git clone https://github.com/yourusername/email-inbox-analysis.git
+    git clone https://github.com/Archit-10/Churn_Email_Activity-using-Scala-
 
 Navigate to the project directory:
 cd email-inbox-analysis
